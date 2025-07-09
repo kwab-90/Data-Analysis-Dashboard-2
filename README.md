@@ -2,13 +2,13 @@
 Analysed Instagram post data (Reels, Images, Carousels) using Excel. Built pivot tables and a dashboard to track likes and comments across post types. Visualised engagement trends to identify high-performing formats, aiding content strategy and social media optimisation.
 
 **Objectives**
-Analyse which post formats generate the highest engagement
+- Analyse which post formats generate the highest engagement
 
-Compare comment-to-like ratios across content types
+- Compare comment-to-like ratios across content types
 
-Build an easy-to-read dashboard for quick decision-making
+- Build an easy-to-read dashboard for quick decision-making
 
-Demonstrate Excel-based data analysis and dashboarding proficiency
+- Demonstrate Excel-based data analysis and dashboarding proficiency
 
 **Tools & Techniques**
 Pivot Tables for aggregating and segmenting engagement data
