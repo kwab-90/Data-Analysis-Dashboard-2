@@ -19,7 +19,7 @@ Analysed Instagram post data (Reels, Images, Carousels) using Excel. Built pivot
 
 - Dashboard Design using Excel layout, slicers, and chart elements
 
-**Dataset Structure**
+🗂️ **Dataset Structure**
 
 Column	Description
 
@@ -30,7 +30,7 @@ Post_Type	Format:
 - Comments	Number of comments per post
 - Likes	Number of likes per post
 
-🗂️ **Dashboard Features**
+📈 **Dashboard Features**
 - Visual breakdown of total likes and comments by post type
 
 - Comparison of average engagement across content formats
