@@ -21,7 +21,9 @@ Analysed Instagram post data (Reels, Images, Carousels) using Excel. Built pivot
 
 **Dataset Structure**
 Column	Description
-- Post_id	Unique identifier for each post
+
+Post_id	Unique identifier for each post
+
 Post_Type	Format: 
 - Reel, Image, Carousel
 - Comments	Number of comments per post
