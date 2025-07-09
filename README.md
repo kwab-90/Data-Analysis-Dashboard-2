@@ -20,6 +20,7 @@ Analysed Instagram post data (Reels, Images, Carousels) using Excel. Built pivot
 - Dashboard Design using Excel layout, slicers, and chart elements
 
 **Dataset Structure**
+
 Column	Description
 
 Post_id	Unique identifier for each post
