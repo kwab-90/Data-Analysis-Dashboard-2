@@ -11,31 +11,32 @@ Analysed Instagram post data (Reels, Images, Carousels) using Excel. Built pivot
 - Demonstrate Excel-based data analysis and dashboarding proficiency
 
 **Tools & Techniques**
-Pivot Tables for aggregating and segmenting engagement data
+- Pivot Tables for aggregating and segmenting engagement data
 
-Charts (bar, column, pie) for visualising post-type performance
+- Charts (bar, column, pie) for visualising post-type performance
 
-Data Cleaning in working sheets to prepare the raw dataset
+- Data Cleaning in working sheets to prepare the raw dataset
 
-Dashboard Design using Excel layout, slicers, and chart elements
+- Dashboard Design using Excel layout, slicers, and chart elements
 
 **Dataset Structure**
 Column	Description
 Post_id	Unique identifier for each post
-Post_Type	Format: Reel, Image, Carousel
+Post_Type	Format: 
+- Reel, Image, Carousel
 Comments	Number of comments per post
 Likes	Number of likes per post
 
 **Dashboard Features**
-Visual breakdown of total likes and comments by post type
+- Visual breakdown of total likes and comments by post type
 
-Comparison of average engagement across content formats
+- Comparison of average engagement across content formats
 
-Clean, minimalistic layout for ease of use
+- Clean, minimalistic layout for ease of use
 
 **Key Insights**
-Reels tend to attract significantly more engagement than other formats
+- Reels tend to attract significantly more engagement than other formats
 
-Carousel posts maintain consistent comment rates
+- Carousel posts maintain consistent comment rates
 
-A small number of posts drive a large portion of total likes
+- A small number of posts drive a large portion of total likes
